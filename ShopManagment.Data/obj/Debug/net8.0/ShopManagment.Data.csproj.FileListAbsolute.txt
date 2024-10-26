@@ -1,0 +1,17 @@
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\bin\Debug\net8.0\ShopManagment.Data.deps.json
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\bin\Debug\net8.0\ShopManagment.Data.runtimeconfig.json
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\bin\Debug\net8.0\ShopManagment.Data.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\bin\Debug\net8.0\ShopManagment.Data.pdb
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\bin\Debug\net8.0\ShopManagment.Core.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\bin\Debug\net8.0\ShopManagment.Core.pdb
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.csproj.AssemblyReference.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.AssemblyInfoInputs.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.AssemblyInfo.cs
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.csproj.CoreCompileInputs.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopMana.AA720668.Up2Date
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\refint\ShopManagment.Data.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.pdb
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ShopManagment.Data.genruntimeconfig.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Data\obj\Debug\net8.0\ref\ShopManagment.Data.dll

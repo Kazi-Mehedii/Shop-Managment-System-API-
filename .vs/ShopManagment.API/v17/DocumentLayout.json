@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.core\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|solutionrelative:shopmanagment.core\\model\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|solutionrelative:shopmanagment.services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.core\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|solutionrelative:shopmanagment.core\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|solutionrelative:shopmanagment.services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A571F-1E80-46CC-9F37-2D9DA37B803C}|ShopManagment.Data\\ShopManagment.Data.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.data\\contextclass\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0A571F-1E80-46CC-9F37-2D9DA37B803C}|ShopManagment.Data\\ShopManagment.Data.csproj|solutionrelative:shopmanagment.data\\contextclass\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|solutionrelative:shopmanagment.services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\mapper\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\mapper\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.services\\interface\\ireportinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|solutionrelative:shopmanagment.services\\interface\\ireportinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0795720-6D7A-494D-A754-3306500B51EF}|ShopManagment.Services\\ShopManagment.Services.csproj|solutionrelative:shopmanagment.services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623E46FD-4B4B-4C52-BC2F-039E73C9DEFC}|ShopManagment.API\\ShopManagment.API.csproj|solutionrelative:shopmanagment.api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.core\\dtos\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|solutionrelative:shopmanagment.core\\dtos\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A571F-1E80-46CC-9F37-2D9DA37B803C}|ShopManagment.Data\\ShopManagment.Data.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.data\\generic repository and unitofwork\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0A571F-1E80-46CC-9F37-2D9DA37B803C}|ShopManagment.Data\\ShopManagment.Data.csproj|solutionrelative:shopmanagment.data\\generic repository and unitofwork\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.core\\model\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|solutionrelative:shopmanagment.core\\model\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.core\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|solutionrelative:shopmanagment.core\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.core\\dtos\\saleitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE5C12-92E6-4BA1-AC39-9FCC7D36B5F5}|ShopManagment.Core\\ShopManagment.Core.csproj|solutionrelative:shopmanagment.core\\dtos\\saleitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A571F-1E80-46CC-9F37-2D9DA37B803C}|ShopManagment.Data\\ShopManagment.Data.csproj|d:\\idb\\all project and practice\\shopmanagment system\\shopmanagment.api\\shopmanagment.data\\migrations\\20241007154737_addpropertiesonsalemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0A571F-1E80-46CC-9F37-2D9DA37B803C}|ShopManagment.Data\\ShopManagment.Data.csproj|solutionrelative:shopmanagment.data\\migrations\\20241007154737_addpropertiesonsalemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "ShopManagment.API\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:45:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ShopManagment.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:02:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Services\\JwtTokenService.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\JwtTokenService.cs",
+              "RelativeToolTip": "ShopManagment.Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:53:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopManagment.API\\appsettings.json",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\appsettings.json",
+              "RelativeToolTip": "ShopManagment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T15:34:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "ShopManagment.API\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:47:48.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Services\\ReportService.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\ReportService.cs",
+              "RelativeToolTip": "ShopManagment.Services\\ReportService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:56:42.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Program.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Program.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Program.cs",
+              "RelativeToolTip": "ShopManagment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:54:44.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\Model\\Sale.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Core\\Model\\Sale.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\Model\\Sale.cs",
+              "RelativeToolTip": "ShopManagment.Core\\Model\\Sale.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:40:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\Model\\Report.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Core\\Model\\Report.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\Model\\Report.cs",
+              "RelativeToolTip": "ShopManagment.Core\\Model\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:00:19.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShopManagment.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:17:26.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShopManagment.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T09:10:15.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReportInterface.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\Interface\\IReportInterface.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Services\\Interface\\IReportInterface.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\Interface\\IReportInterface.cs",
+              "RelativeToolTip": "ShopManagment.Services\\Interface\\IReportInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:52:20.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportDTOs.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\DTOs\\ReportDTOs.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Core\\DTOs\\ReportDTOs.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\DTOs\\ReportDTOs.cs",
+              "RelativeToolTip": "ShopManagment.Core\\DTOs\\ReportDTOs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:04:24.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Services\\PurchaseService.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\PurchaseService.cs",
+              "RelativeToolTip": "ShopManagment.Services\\PurchaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:50:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\StockController.cs",
+              "RelativeToolTip": "ShopManagment.API\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:48:25.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\StockService.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Services\\StockService.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Services\\StockService.cs",
+              "RelativeToolTip": "ShopManagment.Services\\StockService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:58:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaleItemDTO.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\DTOs\\SaleItemDTO.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Core\\DTOs\\SaleItemDTO.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\DTOs\\SaleItemDTO.cs",
+              "RelativeToolTip": "ShopManagment.Core\\DTOs\\SaleItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:34:07.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile .cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Mapper\\MappingProfile .cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Mapper\\MappingProfile .cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Mapper\\MappingProfile .cs",
+              "RelativeToolTip": "ShopManagment.API\\Mapper\\MappingProfile .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:59:26.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Data\\Generic Repository And UnitOfWork\\Repository.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Data\\Generic Repository And UnitOfWork\\Repository.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Data\\Generic Repository And UnitOfWork\\Repository.cs",
+              "RelativeToolTip": "ShopManagment.Data\\Generic Repository And UnitOfWork\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:46:41.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Data\\ContextClass\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "ShopManagment.Data\\ContextClass\\ApplicationDbContext .cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Data\\ContextClass\\ApplicationDbContext .cs",
+              "RelativeToolTip": "ShopManagment.Data\\ContextClass\\ApplicationDbContext .cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:15:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\Model\\SaleItem.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Core\\Model\\SaleItem.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\Model\\SaleItem.cs",
+              "RelativeToolTip": "ShopManagment.Core\\Model\\SaleItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:00:10.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "ShopManagment.API\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.API\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "ShopManagment.API\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:19:15.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241007154737_addPropertiesonsaleModel.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Data\\Migrations\\20241007154737_addPropertiesonsaleModel.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Data\\Migrations\\20241007154737_addPropertiesonsaleModel.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Data\\Migrations\\20241007154737_addPropertiesonsaleModel.cs",
+              "RelativeToolTip": "ShopManagment.Data\\Migrations\\20241007154737_addPropertiesonsaleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:47:37.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleDTO.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\DTOs\\SaleDTO.cs",
+              "RelativeDocumentMoniker": "ShopManagment.Core\\DTOs\\SaleDTO.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\ShopManagment System\\ShopManagment.API\\ShopManagment.Core\\DTOs\\SaleDTO.cs",
+              "RelativeToolTip": "ShopManagment.Core\\DTOs\\SaleDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:12:49.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

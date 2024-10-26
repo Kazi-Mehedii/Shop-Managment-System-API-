@@ -1,0 +1,13 @@
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\bin\Debug\net8.0\ShopManagment.Core.deps.json
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\bin\Debug\net8.0\ShopManagment.Core.runtimeconfig.json
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\bin\Debug\net8.0\ShopManagment.Core.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\bin\Debug\net8.0\ShopManagment.Core.pdb
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.AssemblyInfoInputs.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.AssemblyInfo.cs
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.csproj.CoreCompileInputs.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\refint\ShopManagment.Core.dll
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.pdb
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ShopManagment.Core.genruntimeconfig.cache
+D:\IDB\ALL Project and practice\ShopManagment System\ShopManagment.API\ShopManagment.Core\obj\Debug\net8.0\ref\ShopManagment.Core.dll

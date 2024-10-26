@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dSdXaOqHaFXO5WeBh89pg95ZuPR4r8B3ikpzCIUnbp4=",
+  "Source": "ShopManagment.API",
+  "BasePath": "_content/ShopManagment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
